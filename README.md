@@ -2,4 +2,4 @@
 A repository for tracking vehicle development within EazyRP
 
 
-![EZRP Logo](https://i.imgur.com/TWMKfO7.png)
+![EZRP Logo](https://cdn.discordapp.com/attachments/930923096758685788/942352500437155890/ezrp.png)
